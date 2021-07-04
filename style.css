@@ -6,7 +6,9 @@ h1{font-size: 50px;;}
 .hh{color:orange;
 }
 
-section{display: flex;}
+section{display: flex;
+margin-bottom: 90px;}
+
 .half{width: 50%;
     padding-left: 08%;
 
@@ -24,5 +26,11 @@ border-radius: 5px;
 .top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+.dream{background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 
 }
